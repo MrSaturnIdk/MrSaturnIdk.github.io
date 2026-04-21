@@ -1,7 +1,3 @@
----
-layout: default
-title: My Socials
----
 # THE LINKS
 + [YouTube Channel](https://www.youtube.com/@MrSaturnIdk)
 + [Reddit Acc](https://reddit.com/user/MrSaturn3314)
