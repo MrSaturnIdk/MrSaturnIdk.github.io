@@ -1,7 +1,3 @@
----
-layout: default
-title: Mr Saturn's website
----
 my website
 # about me
 + My mascot (Mr Saturn) an Earthbound character. Earthboudn is a 1990s SNES game I discovered on my SNES classic edition and really liked. I picked Mr Saturn since he was the goofiest character
