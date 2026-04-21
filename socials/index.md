@@ -6,3 +6,4 @@
 + [My Discord](https://discord.com/users/mrsaturnidk)
 + [Gd Account (through Gd colon's Gd browser)](gdbrowser.com/u/MrSaturnIdk)
 + [Github](https://github.com/MrSaturnIdk)
++ [Steam](https://steamcommunity.com/profiles/76561198743529057/)
