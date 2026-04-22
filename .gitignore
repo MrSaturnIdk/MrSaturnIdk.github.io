@@ -3,6 +3,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-# Ruby/Bundler things
+# Ruby things
 /vendor
 Gemfile.lock
