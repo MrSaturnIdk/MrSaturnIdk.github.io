@@ -5,6 +5,6 @@
 + [Gortism subreddit (Read About me)](https://reddit.com/r/gortism)
 + [Discord server (Read about me aswell)](https://discord.gg/Zk3WSFyW9)
 + [My Discord](https://discord.com/users/mrsaturnidk)
-+ [Gd Account (through Gd colon's Gd browser)](gdbrowser.com/u/MrSaturnIdk)
++ [Gd Account](gdbrowser.com/u/MrSaturnIdk)
 + [Github](https://github.com/MrSaturnIdk)
 + [Steam](https://steamcommunity.com/profiles/76561198743529057/)
