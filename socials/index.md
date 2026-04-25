@@ -1,3 +1,6 @@
+---
+title: my socials
+---
 ![](/resources/spinning.gif)
 # THE LINKS
 + [YouTube Channel](https://www.youtube.com/@MrSaturnIdk)
