@@ -1,6 +1,3 @@
----
-title: MrSaturnIdk's website
----
 ![](/resources/spinning.gif)
 
 my website
