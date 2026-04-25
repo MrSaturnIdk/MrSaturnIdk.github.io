@@ -12,8 +12,7 @@ and I also centered my discord server (linked in socials) around him. If you wan
 + he/him
 + Central US time (Chicago time)
 # links
-+ [socials](/socials/
-+ )
++ [socials](/socials/)
 + [site source code](https://github.com/MrSaturnIdk/MrSaturnIdk.github.io)
 # License
 Licensed under [GNU General Public License v3.0](/LICENSE.md)
