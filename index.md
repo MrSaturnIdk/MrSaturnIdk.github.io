@@ -1,4 +1,5 @@
 ![](/resources/spinning.gif)
+**REFERENCE FILE, MIGRATING TO HTML**
 
 my website
 # about me
