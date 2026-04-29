@@ -1,8 +1,0 @@
-# Jekyll stuff
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-# Ruby things
-/vendor
-Gemfile.lock
