@@ -3,6 +3,6 @@ My github.io
 I mean what else could it possibly be
 
 # License
-Licensed under [GNU General Public License v3.0](LICENSE.md)
+Licensed under [GPL-3.0-or-later](LICENSE.md)
 
-(Yes this license can be applied to a website.)
+(I have free will yknow)
