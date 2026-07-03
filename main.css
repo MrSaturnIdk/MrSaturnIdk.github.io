@@ -47,3 +47,7 @@ h6 {
 #loading-screen {
     z-index: 998;
 }
+#license-text {
+    text-align: center;
+    font-size: 0.75vw;
+}
