@@ -2,29 +2,29 @@ body {
     background-color: #F5BF60;
 }
 h1, h2, h3, h4, h5, h6, p, li, a {
-    font-family: Arial, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     text-decoration: #000000;
 }
 a, p, li {
-    font-size: 1.5vw;
+    font-size: 2.75vw;
 }
 h1 {
-    font-size: 8.5vw;
+    font-size: 6.25vw;
 }
 h2 {
-    font-size: 7.5vw;
+    font-size: 5.75vw;
 }
 h3 {
-    font-size: 6.5vw;
+    font-size: 5.25vw;
 }
 h4 {
-    font-size: 5.5vw;
+    font-size: 4.75vw;
 }
 h5 {
-    font-size: 4.5vw;
+    font-size: 4.25vw;
 }
 h6 {
-    font-size: 3.5vw;
+    font-size: 3.75vw;
 }
 
 .child-anchor {
@@ -33,10 +33,14 @@ h6 {
     font-size: inherit;
 }
 .giant {
+    position: absolute;
     width: 100vw;
     height: 100vh;
 }
-
+.license-text a, .license-text {
+    text-align: center;
+    font-size: 1.375vw;
+}
 #spinning-saturn {
     width: 25vw;
     height: auto;
@@ -46,8 +50,4 @@ h6 {
 }
 #loading-screen {
     z-index: 998;
-}
-#license-text {
-    text-align: center;
-    font-size: 0.75vw;
 }
