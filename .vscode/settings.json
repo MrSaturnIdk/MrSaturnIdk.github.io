@@ -2,5 +2,9 @@
     "editor.inlineSuggest.enabled": false, // Ai slop prevention
     "editor.inlineSuggest.suppressSuggestions": true,
     "workbench.colorTheme": "GitHub Dark Default",
-    "editor.rulers": [120] // Line limit
+    "editor.rulers": [
+        120
+    ], // Line limit
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
 }
