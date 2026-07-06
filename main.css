@@ -6,25 +6,25 @@ h1, h2, h3, h4, h5, h6, p, li, a {
     text-decoration: #000000;
 }
 a, p, li {
-    font-size: 2.75vw;
+    font-size: clamp(0.75rem, 2.75vw, 1.25rem);
 }
 h1 {
-    font-size: 6.25vw;
+    font-size: clamp(4.25rem, 6.25vw, 4.75rem);
 }
 h2 {
-    font-size: 5.75vw;
+    font-size: clamp(3.75rem, 5.75vw, 4.25rem); 
 }
 h3 {
-    font-size: 5.25vw;
+    font-size: clamp(3.25rem, 5.25vw, 3.75rem);
 }
 h4 {
-    font-size: 4.75vw;
+    font-size: clamp(2.75rem, 4.75vw, 3.25rem);
 }
 h5 {
-    font-size: 4.25vw;
+    font-size: clamp(2.25rem, 4.25vw, 2.75rem);
 }
 h6 {
-    font-size: 3.75vw;
+    font-size: clamp(1.75rem, 3.75vw, 2.25rem);
 }
 
 .child-anchor {
@@ -37,9 +37,9 @@ h6 {
     width: 100vw;
     height: 100vh;
 }
-.license-text a, .license-text {
+.license-text {
     text-align: center;
-    font-size: 1.375vw;
+    font-size: clamp(0.375rem, 1.375vw, .625rem);
 }
 #spinning-saturn {
     width: 25vw;
