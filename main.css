@@ -3,8 +3,6 @@ html, body {
     height: 100vh;
 }
 body {
-    display: grid;
-    grid-template-rows: 1fr auto;
     background-color: #F5BF60;
 }
 h1, h2, h3, h4, h5, h6, p, li, a {
@@ -40,6 +38,7 @@ h6 {
     opacity: inherit;
 }
 .giant {
+    margin: 0;
     position: absolute;
     left: 0;
     top: 0;
