@@ -9,6 +9,7 @@ h1, h2, h3, h4, h5, h6, p, li, a {
     font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     text-decoration: #000000;
 }
+
 a, p, li {
     font-size: 1rem;
 }
@@ -37,6 +38,9 @@ a {
     font-size: inherit;
     opacity: inherit;
 }
+noscript {
+    z-index: 999;
+}
 .giant {
     margin: 0;
     position: absolute;
@@ -45,11 +49,9 @@ a {
     width: 100vw;
     height: 100vh;
 }
+
 #spinning-saturn {
     width: 25vw;
-}
-#no-script {
-    z-index: 999;
 }
 #loading-screen {
     z-index: 998;
