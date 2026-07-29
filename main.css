@@ -40,6 +40,7 @@ a {
 }
 noscript {
     z-index: 999;
+    background-color: #F5BF60
 }
 .giant {
     margin: 0;
@@ -55,4 +56,5 @@ noscript {
 }
 #loading-screen {
     z-index: 998;
+    background-color: #F5BF60;
 }
