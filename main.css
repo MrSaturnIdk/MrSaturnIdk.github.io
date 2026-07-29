@@ -33,14 +33,20 @@ h6 {
 }
 
 a {
-    text-decoration: revert;
+    text-decoration: inherit;
     color: revert;
     font-size: inherit;
     opacity: inherit;
 }
 noscript {
     z-index: 999;
-    background-color: #F5BF60
+    background-color: #F5BF60;
+}
+noscript h1, #loading-screen h1 {
+    position: absolute;
+    left: 50vw;
+    top: 50vh;
+    translate: -50% -50%;
 }
 .giant {
     margin: 0;
