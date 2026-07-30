@@ -33,7 +33,7 @@ h6 {
 }
 
 a {
-    text-decoration: inherit;
+    text-decoration: revert;
     color: revert;
     font-size: inherit;
     opacity: inherit;
