@@ -1,6 +1,8 @@
 # MrSaturnIdk.github.io
 It's just my github.io, what do you expect.
-## License
+## Copyright & Licensing
+Copyright © 2026 MrSaturnIdk. 
+
 Licensed under the [AGPL-3.0-or-later](./LICENSE).
 ### Third party asset
 [resources/spinningSaturn.gif](./resources/spinningSaturn.gif) -
