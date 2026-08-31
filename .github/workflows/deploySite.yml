@@ -27,6 +27,8 @@ jobs:
         steps:
           - name: Checkout the repo
             uses: actions/checkout@v7
+            with:
+                submodules: true
           - name: Remove useless files
             run: |
                 rm README.md
