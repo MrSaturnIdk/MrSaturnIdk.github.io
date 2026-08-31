@@ -1,0 +1,3 @@
+[submodule "web/stare-at-burger"]
+	path = web/stare-at-burger
+	url = git@github.com:MrSaturnIdk/stare-at-burger.git
