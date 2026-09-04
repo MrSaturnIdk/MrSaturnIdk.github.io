@@ -1,3 +1,6 @@
 [submodule "web/stare-at-burger"]
 	path = web/stare-at-burger
 	url = git@github.com:MrSaturnIdk/stare-at-burger.git
+[submodule "web/font-size-tester"]
+	path = web/font-size-tester
+	url = git@github.com:MrSaturnIdk/font-size-tester.git
