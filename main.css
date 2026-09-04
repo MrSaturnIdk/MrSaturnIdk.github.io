@@ -2,15 +2,15 @@ html, body {
     margin: 0;
     height: 100%;
 }
-body {
+body, input, button {
     background-color: #F5BF60;
 }
-h1, h2, h3, h4, h5, h6, p, li, a {
+h1, h2, h3, h4, h5, h6, p, li, a, input, button {
     font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     color: #000000;
 }
 
-a, p, li {
+a, p, li, input, button {
     font-size: 1rem;
 }
 h1 {
